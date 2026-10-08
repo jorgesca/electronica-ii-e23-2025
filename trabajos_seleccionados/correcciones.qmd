@@ -1,0 +1,224 @@
+---
+title: Electrónica II
+format: pdf
+---
+
+# Correcciones y retroalimentaciones seleccionadas. Año 2025.
+
+Las calificaciones son de 0 a 100. La retroalimentación se proporciona para cada sección del trabajo.
+
+## Actividad 1 (alarcon)
+
+Calificación: 98
+
+Resumen: (100% de 10/100 pts)
+
+Introducción: (100% de 20/100 pts)
+
+Materiales y Métodos: (90% de 25/100 pts) Las tablas 1 y 2 no son referenciadas en el texto sino que son el único elemento en sus sub-secciones respectivas.
+
+Resultados y Discusión: (100% de 25/100 pts)
+
+Conclusiones: (100% de 10/100 pts) 
+
+
+## Actividad 2 (diaz)
+
+Calificación: 76
+
+Resumen: (100% de 10/100 pts)
+
+Introducción: (100% de 20/100 pts)
+
+Materiales y Métodos: (60% de 25/100 pts) No muestra ningún diagrama esquemático ni explica el conexionado de los distintos circuitos realizados
+
+Resultados y Discusión: (60% de 25/100 pts) No da detalles de los resultados obtenidos, los resultados del cerrojo RS son incompletos y el faltan los del detector de flanco. Solo explica generalidades
+
+Conclusiones: (60% de 10/100 pts) Los resultados son incompletos y no brindan el soporte necesario a las conclusiones
+
+Referencias: (100% de 10/100 pts)
+
+## Actividad 3 (Chaves)
+
+Calificación: 100
+
+1) (100% de 25/100 pts)
+
+2) (100% de 25/100 pts)
+
+3) (100% de 25/100 pts)
+
+4) (100% de 25/100 pts)
+
+## Actividad 4 (alarcon)
+
+Calificación: 67
+
+1.a) (100% de 8/100 pts)
+
+1.b) (100% de 6/100 pts)
+
+2.1) (100% de 3/100 pts)
+
+2.2) (100% de 3/100 pts)
+
+2.3) (100% de 3/100 pts)
+
+2.4) (100% de 3/100 pts)
+
+3.1) (100% de 3/100 pts)
+
+3.2) (100% de 3/100 pts)
+
+3.3) (100% de 3/100 pts)
+
+3.4) (100% de 3/100 pts)
+
+4.1) (100% de 7/100 pts)
+
+4.2) (100% de 7/100 pts)
+
+5.1) (100% de 7/100 pts)
+
+5.2) (60% de 7/100 pts) 1116 = 0001 00012 = 1710
+
+6.1) (60% de 7/100 pts) Incompleto
+
+6.2) (0% de 7/100 pts) No realizado
+
+7.1) (0% de 5/100 pts) No realizado
+
+7.2) (0% de 5/100 pts) No realizado
+
+7.3.1) (0% de 5/100 pts) No realizado
+
+7.3.2) (0% de 5/100 pts) No realizado
+
+## Actividad 5 (santillan)
+
+Calificación: 100
+
+Informe.Resumen: (100% de 5/100 pts)
+
+Informe.Introducción: (100% de 5/100 pts)
+
+Informe.MaterialesYMetodos: (100% de 10/100 pts)
+
+Informe.Resultados: (100% de 15/100 pts)
+
+Informe.Conclusiones: (100% de 10/100 pts)
+
+Informe.referencias: (100% de 5/100 pts)
+
+Diseño.DescripciónHardware: (100% de 20/100 pts)
+
+Diseño.BancoDePrueba: (100% de 15/100 pts)
+
+Diseño.Fpga: (100% de 15/100 pts)
+
+Repositorio de la entrega: https://github.com/jorgesca/eii-2025-santillan-proyectos/tree/796c908d2e09723dcf3b6a264571d7c027759d37/actividad-5
+
+## Actividad 6 (chaves)
+
+Calificación: 80
+
+Informe.Resumen: (100% de 3/100 pts)
+
+Informe.Introducción: (100% de 3/100 pts)
+
+Informe.MaterialesYMetodos: (60% de 6/100 pts)
+
+Solo un planteo general, no indica los procedimientos de diseño seguidos
+
+Informe.Resultados: (100% de 9/100 pts)
+
+Informe.Conclusiones: (100% de 6/100 pts)
+
+Informe.referencias: (0% de 3/100 pts) No incluye referencias
+
+Diseño.DescripciónHardware: (60% de 20/100 pts)
+
+En semaforo.vhd, no configura correctamente el número de bits del prescaler (queda en 4 por defecto)
+
+En top.vhd, referencia una entidad controlador_semaforo donde debiera ser semaforo
+
+Diseño.BancoDePrueba: (80% de 35/100 pts)
+
+El banco de prueba de semaforo indica 44 errores. Aún así, la simulación no parece mal
+
+Diseño.Fpga: (100% de 15/100 pts)
+
+Repositorio de la entrega: https://github.com/jorgesca/eii-2025-Gonzaloechvs-proyectos/tree/250fff058a39258b040cffd7ff9f50ad5270fe0f/Actividad_6
+
+## Actividad 7 (diaz)
+
+Calificación: 96
+
+Informe.Resumen: (100% de 3/100 pts)
+
+Informe.Introducción: (100% de 3/100 pts)
+
+Informe.MaterialesYMetodos: (60% de 6/100 pts)
+
+Informe.Resultados: (100% de 9/100 pts)
+
+Informe.Conclusiones: (100% de 6/100 pts)
+
+Informe.referencias: (50% de 3/100 pts)
+
+Diseño.DescripciónHardware: (100% de 20/100 pts)
+
+Diseño.BancoDePrueba: (100% de 35/100 pts)
+
+Diseño.Fpga: (100% de 15/100 pts)
+
+Repositorio de la entrega: https://github.com/jorgesca/eii-2025-diaz-actividad_7/tree/3cafac1454732181bead124e6b0ba97705c498f1
+
+## Actividad 8 (chaves)
+
+Calificación: 94
+
+Informe.Resumen: (100% de 6/100 pts)
+
+Informe.Introducción: (100% de 6/100 pts)
+
+Informe.MaterialesYMetodos: (100% de 12/100 pts)
+
+Informe.Resultados: (100% de 18/100 pts)
+
+Informe.Conclusiones: (100% de 12/100 pts)
+
+Informe.referencias: (100% de 6/100 pts) Las últimas dos referencias no son citadas en el texto
+
+Diseño.DescripciónHardware: (100% de 11/100 pts)
+
+Diseño.BancoDePrueba: (80% de 20/100 pts) En ram_512x32_dualport_tb y registro_32x32_tb, el contenido inicial de memoria no corresponde a lo esperado por el banco de prueba
+
+Diseño.Fpga: (80% de 9/100 pts) En la arquitectura de top hay un proceso que infiere memoria pero tiene lista de sensibilidad (all)
+
+Repositorio de la entrega: https://github.com/jorgesca/eii-2025-Gonzaloechvs-proyectos/tree/250fff058a39258b040cffd7ff9f50ad5270fe0f/Actividad_8
+
+## Actividad 9 (santillan)
+
+Calificación: 100
+
+Informe.Resumen: (100% de 3/100 pts)
+
+Informe.Introducción: (100% de 3/100 pts)
+
+Informe.Desarrollo: (100% de 6/100 pts)
+
+Informe.Resultados: (100% de 9/100 pts) 
+
+Informe.Conclusiones: (100% de 6/100 pts) 
+
+Informe.Referencias: (100% de 3/100 pts) 
+
+Diseño.DescripciónHardware: (100% de 20/100 pts)
+
+Diseño.BancoDePrueba: (80% de 35/100 pts) 
+
+Diseño.Fpga: (80% de 15/100 pts) 
+
+Repositorio de la entrega: https://github.com/jorgesca/eii-2025-santillan-actividad_9/tree/eb84d3d703b3d32f1247856cd53f96257a994f56
+
