@@ -1,0 +1,36 @@
+[submodule "repositorios_entregas/eii-2025-santillan-proyectos"]
+	path = repositorios_entregas/eii-2025-santillan-proyectos
+	url = https://github.com/jorgesca/eii-2025-santillan-proyectos
+[submodule "repositorios_entregas/eii-2025-Gonzaloechvs-proyectos"]
+	path = repositorios_entregas/eii-2025-Gonzaloechvs-proyectos
+	url = https://github.com/jorgesca/eii-2025-Gonzaloechvs-proyectos
+[submodule "repositorios_entregas/eii-2025-alarcon-proyectos/actividad_5"]
+	path = repositorios_entregas/eii-2025-alarcon-proyectos/actividad_5
+	url = https://github.com/jorgesca/eii-2025-rocialarcon-proyecto5
+[submodule "repositorios_entregas/eii-2025-alarcon-proyectos/actividad_6"]
+	path = repositorios_entregas/eii-2025-alarcon-proyectos/actividad_6
+	url = https://github.com/jorgesca/eii-2025-rocioalarcon-actividad_6
+[submodule "repositorios_entregas/eii-2025-alarcon-proyectos/actividad_7"]
+	path = repositorios_entregas/eii-2025-alarcon-proyectos/actividad_7
+	url = https://github.com/jorgesca/eii-2025-rocioalarcon-actividad_7
+[submodule "repositorios_entregas/eii-2025-alarcon-proyectos/actividad_8"]
+	path = repositorios_entregas/eii-2025-alarcon-proyectos/actividad_8
+	url = https://github.com/jorgesca/eii-2025-rocioalarcon-actividad_8
+[submodule "repositorios_entregas/eii-2025-alarcon-proyectos/actividad_9"]
+	path = repositorios_entregas/eii-2025-alarcon-proyectos/actividad_9
+	url = https://github.com/jorgesca/eii-2025-rocioalarcon-actividad_9
+[submodule "repositorios_entregas/eii-2025-diaz-proyectos/actividad_5"]
+	path = repositorios_entregas/eii-2025-diaz-proyectos/actividad_5
+	url = https://github.com/jorgesca/eii-2025-diaz-actividad_5
+[submodule "repositorios_entregas/eii-2025-diaz-proyectos/actividad_6"]
+	path = repositorios_entregas/eii-2025-diaz-proyectos/actividad_6
+	url = https://github.com/jorgesca/eii-2025-diaz-actividad_6
+[submodule "repositorios_entregas/eii-2025-diaz-proyectos/actividad_7"]
+	path = repositorios_entregas/eii-2025-diaz-proyectos/actividad_7
+	url = https://github.com/jorgesca/eii-2025-diaz-actividad_7
+[submodule "repositorios_entregas/eii-2025-diaz-proyectos/actividad_8"]
+	path = repositorios_entregas/eii-2025-diaz-proyectos/actividad_8
+	url = https://github.com/jorgesca/eii-2025-diaz-actividad_8
+[submodule "repositorios_entregas/eii-2025-diaz-proyectos/actividad_9"]
+	path = repositorios_entregas/eii-2025-diaz-proyectos/actividad_9
+	url = https://github.com/jorgesca/eii-2025-diaz-actividad_9
