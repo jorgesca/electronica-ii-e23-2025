@@ -3,7 +3,9 @@ title: Electrónica II
 format: pdf
 ---
 
-# Correcciones y retroalimentaciones seleccionadas. Año 2025.
+# Correcciones y retroalimentaciones seleccionadas [^1]. Año 2025.
+
+[^1]: El sistema utilizado para la evaluación se basa en la suma ponderada de las calificaciones obtenidas en las actividades a lo largo del semestre, por lo que cada actividad no se considera *aprobada* o *desaprobada*.
 
 Las calificaciones son de 0 a 100. La retroalimentación se proporciona para cada sección del trabajo.
 
@@ -116,7 +118,7 @@ Diseño.BancoDePrueba: (100% de 15/100 pts)
 
 Diseño.Fpga: (100% de 15/100 pts)
 
-Repositorio de la entrega: https://github.com/jorgesca/eii-2025-santillan-proyectos/tree/796c908d2e09723dcf3b6a264571d7c027759d37/actividad-5
+Repositorio de la entrega: [https://github.com/jorgesca/electronica-ii-e23-2025](https://github.com/jorgesca/eii-2025-santillan-proyectos/tree/796c908d2e09723dcf3b6a264571d7c027759d37/actividad-5)
 
 ## Actividad 6 (chaves)
 
@@ -148,7 +150,7 @@ El banco de prueba de semaforo indica 44 errores. Aún así, la simulación no p
 
 Diseño.Fpga: (100% de 15/100 pts)
 
-Repositorio de la entrega: https://github.com/jorgesca/eii-2025-Gonzaloechvs-proyectos/tree/250fff058a39258b040cffd7ff9f50ad5270fe0f/Actividad_6
+Repositorio de la entrega: [https://github.com/jorgesca/electronica-ii-e23-2025](https://github.com/jorgesca/eii-2025-Gonzaloechvs-proyectos/tree/250fff058a39258b040cffd7ff9f50ad5270fe0f/Actividad_6)
 
 ## Actividad 7 (diaz)
 
@@ -172,7 +174,7 @@ Diseño.BancoDePrueba: (100% de 35/100 pts)
 
 Diseño.Fpga: (100% de 15/100 pts)
 
-Repositorio de la entrega: https://github.com/jorgesca/eii-2025-diaz-actividad_7/tree/3cafac1454732181bead124e6b0ba97705c498f1
+Repositorio de la entrega: [https://github.com/jorgesca/electronica-ii-e23-2025](https://github.com/jorgesca/eii-2025-diaz-actividad_7/tree/3cafac1454732181bead124e6b0ba97705c498f1)
 
 ## Actividad 8 (chaves)
 
@@ -196,7 +198,7 @@ Diseño.BancoDePrueba: (80% de 20/100 pts) En ram_512x32_dualport_tb y registro_
 
 Diseño.Fpga: (80% de 9/100 pts) En la arquitectura de top hay un proceso que infiere memoria pero tiene lista de sensibilidad (all)
 
-Repositorio de la entrega: https://github.com/jorgesca/eii-2025-Gonzaloechvs-proyectos/tree/250fff058a39258b040cffd7ff9f50ad5270fe0f/Actividad_8
+Repositorio de la entrega: [https://github.com/jorgesca/electronica-ii-e23-2025](https://github.com/jorgesca/eii-2025-Gonzaloechvs-proyectos/tree/250fff058a39258b040cffd7ff9f50ad5270fe0f/Actividad_8)
 
 ## Actividad 9 (santillan)
 
@@ -220,5 +222,5 @@ Diseño.BancoDePrueba: (80% de 35/100 pts)
 
 Diseño.Fpga: (80% de 15/100 pts) 
 
-Repositorio de la entrega: https://github.com/jorgesca/eii-2025-santillan-actividad_9/tree/eb84d3d703b3d32f1247856cd53f96257a994f56
+Repositorio de la entrega: [https://github.com/jorgesca/electronica-ii-e23-2025](https://github.com/jorgesca/eii-2025-santillan-actividad_9/tree/eb84d3d703b3d32f1247856cd53f96257a994f56)
 
