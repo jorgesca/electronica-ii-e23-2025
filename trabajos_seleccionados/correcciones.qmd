@@ -5,7 +5,7 @@ format: pdf
 
 # Correcciones y retroalimentaciones seleccionadas [^1]. Año 2025.
 
-[^1]: El sistema utilizado para la evaluación se basa en la suma ponderada de las calificaciones obtenidas en las actividades a lo largo del semestre, por lo que cada actividad no se considera *aprobada* o *desaprobada*.
+[^1]: El sistema utilizado para la evaluación se basa en la suma ponderada de las calificaciones obtenidas en las actividades a lo largo del semestre, por lo que cada actividad no se considera *aprobada* o *desaprobada*. Algunas actividades se evalúan mediante informes presentados, otros mediante ejercicios realizados en horario de clase, y otros mediante la combinación de informes, descripciones de hardware, bancos de prueba (alojados en repositorios de GitHub) y demostraciones en las placas de desarrollo de la cátedra.
 
 Las calificaciones son de 0 a 100. La retroalimentación se proporciona para cada sección del trabajo.
 
